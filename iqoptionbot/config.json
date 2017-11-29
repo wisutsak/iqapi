@@ -1,0 +1,16 @@
+{
+    "connection_settings": {
+        "hostname": "iqoption.com",
+        "password": "wisutsak",
+        "username": "wisutsak.ad@gmail.com"
+    },
+    "trade_settings": {
+        "actives": [
+            "EURUSD"
+        ],
+        "patterns": [
+            "TEST",
+            "TBH"
+        ]
+    }
+}
