@@ -1,8 +1,8 @@
 {
     "connection_settings": {
         "hostname": "iqoption.com",
-        "password": "wisutsak",
-        "username": "wisutsak.ad@gmail.com"
+        "password": "",
+        "username": "@gmail.com"
     },
     "trade_settings": {
         "actives": [
